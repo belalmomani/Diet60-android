@@ -1,7 +1,0 @@
-<resources>
-    <style name="Theme.Diet60" parent="Theme.AppCompat.Light.NoActionBar">
-        <item name="android:statusBarColor">#2B7A68</item>
-        <item name="android:navigationBarColor">#F1F6F3</item>
-        <item name="android:windowBackground">#F1F6F3</item>
-    </style>
-</resources>

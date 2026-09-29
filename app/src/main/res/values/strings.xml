@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">برنامج التنحيف</string>
-    <!-- غيّري العنوان هنا فقط إذا تغيّر رابط موقعك (مثلاً http بدل https) -->
-    <string name="start_url">https://w8xo.xo.je/index.php</string>
-    <string name="offline_msg">تعذّر الاتصال بالإنترنت. اسحبي للأسفل لإعادة المحاولة.</string>
-</resources>
